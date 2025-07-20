@@ -1,4 +1,4 @@
-import { Scooter, Trip, User, Payment, FAQ } from '../types';
+import { Scooter, Trip, User, FAQ } from '../types';
 
 // Моковые данные для демонстрации
 const mockScooters: Scooter[] = [
